@@ -1,0 +1,7 @@
+@import './mixins/mixins.css';
+.posts__container {
+  max-width: 75rem;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}/*# sourceMappingURL=posts.css.map */
